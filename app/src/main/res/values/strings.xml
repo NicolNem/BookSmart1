@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookSmart</string>
+    <string name="first_screen">Questionnaire</string>
+    <string name="second_screen">Main</string>
+    <string name="third_screen">Profile</string>
+    <string name="forth_screen">Recommends</string>
+    <string name="fifth_screen">Requests</string>
+    <string name="sixth_screen">Search</string>
+    <string name="seventh_screen">Author Information</string>
+    <string name="eighth_screen">Book Information </string>
+</resources>

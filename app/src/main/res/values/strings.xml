@@ -8,4 +8,12 @@
     <string name="sixth_screen">Search</string>
     <string name="seventh_screen">Author Information</string>
     <string name="eighth_screen">Book Information </string>
+    <string name="first_question">are you a new reader? </string>
+    <string name="second_question">choose your favorite genre </string>
+    <string name="third_question">choose preferences for the books length  </string>
+    <string name="forth_question">choose the books you like (optional) </string>
+    <string name="fifth_question">choose the shows/movies you like (optional) </string>
+    <string name="sixth_question">choose the authors you like (optional) </string>
+    <string name="seventh_question">Preferences for the gender of the main character? </string>
+
 </resources>

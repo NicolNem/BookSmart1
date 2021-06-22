@@ -28,23 +28,26 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5"
-        app:srcCompat="@drawable/mainPic" />
+        app:srcCompat="@drawable/mainbooks" />
 
     <TextView
         android:id="@+id/textView27"
-        android:layout_width="333dp"
-        android:layout_height="159dp"
+        android:layout_width="328dp"
+        android:layout_height="293dp"
         android:layout_marginTop="48dp"
-        android:text=" a short explanation about the app."
+        android:text="@string/about_us"
+        android:textColor="#040303"
+        android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/btnMenu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="64dp"
+        android:onClick="mvMenu"
         android:text="menu"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"

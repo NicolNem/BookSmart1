@@ -20,15 +20,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <GridView
-        android:layout_width="372dp"
-        android:layout_height="550dp"
-        android:layout_marginTop="60dp"
-        android:cacheColorHint="#5E2F2F"
-        android:columnWidth="150dip"
-        android:gravity="center"
-        android:numColumns="10"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+    <ListView
+        android:id="@+id/listViewRec"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="-44dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

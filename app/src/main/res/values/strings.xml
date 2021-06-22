@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">BookSmart</string>
     <string name="first_screen">Questionnaire</string>
-    <string name="second_screen">Main</string>
+    <string name="second_screen">About us</string>
     <string name="third_screen">Profile</string>
     <string name="forth_screen">Recommends</string>
     <string name="fifth_screen">Requests</string>
@@ -9,11 +9,16 @@
     <string name="seventh_screen">Author Information</string>
     <string name="eighth_screen">Book Information </string>
     <string name="first_question">are you a new reader? </string>
-    <string name="second_question">choose your favorite genre </string>
+    <string name="second_question">enter your favorite genre </string>
     <string name="third_question">choose preferences for the books length  </string>
     <string name="forth_question">choose the books you like (optional) </string>
     <string name="fifth_question">choose the shows/movies you like (optional) </string>
     <string name="sixth_question">choose the authors you like (optional) </string>
     <string name="seventh_question">Preferences for the gender of the main character? </string>
+    <string name="about_us">Readers often go through the struggle of looking for new books, and so they start looking at every resource they can.
+      Yet, many of the books wont fit them.
+    "Book Smart" builds you a personalized list of recommendations, so you wont have to.
+    we start with a few questions, and then build your list and profile.
+    we welcome in open arms feedback, and let you search for books/authors out of the list. </string>
 
 </resources>
